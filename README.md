@@ -1,8 +1,8 @@
 <b><h1>Database Technology Final Project:</h1></b>
+"made using Java (JFrame), please download the zip file and extract it"
 <b><h2>E-Concert Ticketing System!</h2></b>
 <h3><b>Dear reader,</h3>
-<br>
-  
+
 <br> My name is William Jonathan Mulyadi, NIM : 2502045683 <br>
 <t>This github repository contains the files that is used for my Database Technology Final Project.<br><br>
 
